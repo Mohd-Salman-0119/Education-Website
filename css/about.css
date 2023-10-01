@@ -1,0 +1,154 @@
+/* ================== ACHIEVEMENTS ======================== */
+.about__achievements {
+     margin-top: 3rem;
+}
+
+.about__achievements__container {
+     display: grid;
+     grid-template-columns: 40% 60%;
+     gap: 5rem;
+}
+
+.about__achievement__right>p {
+     margin: 1.6rem 0 2.5rem;
+}
+
+.achievements__cards {
+     display: grid;
+     grid-template-columns: repeat(3, 1fr);
+     gap: 1.5rem;
+}
+
+.achievements__card {
+     background: var(--color-bg1);
+     padding: 1.6rem;
+     border-radius: 1rem;
+     text-align: center;
+     transition: var(--transition);
+}
+
+.achievements__card:hover {
+     background: var(--color-bg2);
+     box-shadow: 0 3rem 3rem rgba(0, 0, 0, 0.3);
+}
+
+.achievements__icon {
+     background: transparent;
+     padding: 0.6rem;
+     border-radius: 1rem;
+     display: inline-block;
+     margin-bottom: 2rem;
+     font-size: 2rem;
+}
+
+.achievements__card:nth-child(1) .achievements__icon {
+     background-color: var(--color-danger);
+}
+
+.achievements__card:nth-child(2) .achievements__icon {
+     background-color: var(--color-success);
+}
+
+.achievements__card:nth-child(3) .achievements__icon {
+     background-color: var(--color-primary);
+}
+.achievements__card p{
+     margin-top: 1rem;
+}
+/* ================== TEAM MEMBER ======================== */
+
+.team{
+     background-color: var(--color-bg1);
+     box-shadow: inset 0 0 3rem rgba(0, 0, 0, 0.5);
+}
+.team__container{
+     display: grid;
+     grid-template-columns: repeat(4,1fr);
+     gap: 2rem;
+}
+.team__member{
+     background: var(--color-bg2);
+     padding: 2rem;
+     border: 1px solid transparent;
+     transition: var(--transition);
+     position: relative;
+     overflow: hidden;
+}
+
+.team__member:hover{
+     background: transparent;
+     border-color: var(--color-primary);
+
+}
+.team__member-image img{
+     filter: saturate(0);
+     transition: var(--transition);
+}
+.team__member:hover img{
+     filter: saturate(1);
+}
+.team__member-info *{
+     text-align: center;
+     margin-top: 1.2rem;
+}
+
+.team__member-socials{
+     display: flex;
+     flex-direction: column;
+     position: absolute;
+     transform: translateY(-50%);
+     top: 50%;
+     right: -100%;
+     background: var(--color-primary);
+     border-radius: 1rem 0 0 1rem;
+     box-shadow: -2rem 0 2rem rgba(0, 0, 0, 0.3);
+     transition: var(--transition);
+}
+.team__member-socials a{
+     padding: 1rem;
+}
+.team__member:hover .team__member-socials{
+     right: 0;
+}
+/* ====================== MERDIA QUERIES (TABLETS) ========================= */
+
+@media screen and (max-width:1024px) {
+     .about__achievements{
+          margin-top: 2rem;
+     }
+     .about__achievements__container{
+          grid-template-columns: 1fr;
+          gap: 4rem;
+     }
+     .about__achievement__left{
+          width: 80%;
+          margin: 0 auto;
+     }
+     /* ====================== TEAM MEMBER ========================= */
+     .team__container{
+          grid-template-columns: repeat(3,1fr);
+          gap: 1.5rem;
+     }
+     .team__member{
+          padding: 1rem;
+     }
+}
+/* ====================== MERDIA QUERIES (PHONE) ========================= */
+
+@media screen and (max-width:600px) {
+
+     .achievements__cards{
+          grid-template-columns: 1fr 1fr;
+          gap: 0.7rem;
+     }
+     .team__container{
+          grid-template-columns: 1fr 1fr;
+          gap: 0.7rem;
+     }
+     .team__member{
+          padding: 0;
+     }
+     .team__member p{
+          margin-bottom: 1.5rem;
+     }
+}
