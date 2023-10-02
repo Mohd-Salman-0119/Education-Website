@@ -33,17 +33,17 @@
   ],
   "course": [
     {
-      "image": "/EducationSite/images/course1.jpg",
+      "image": "/images/course1.jpg",
       "title": "Responsive social media Website UI Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     },
     {
-      "image": "/EducationSite/images/course2.jpg",
+      "image": "/images/course2.jpg",
       "title": "Responsive SmartPhone Website Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     },
     {
-      "image": "/EducationSite/images/course3.jpg",
+      "image": "/images/course3.jpg",
       "title": "Responsive Admin Dashboard UI Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     }
@@ -84,43 +84,43 @@
   ],
   "testimonial": [
     {
-      "avatar": "/EducationSite/images/avatar1.jpg",
+      "avatar": "/images/avatar1.jpg",
       "name": "Diana Ayi",
       "status": "Student",
       "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum voluptates ex officiis, nemo odit temporibus necessitatibus velit deserunt vero voluptatum distinctio possimus accusantium in impedit quidem inventore repellendus quis numquam."
     },
     {
-      "avatar": "/EducationSite/images/avatar2.jpg",
+      "avatar": "/images/avatar2.jpg",
       "name": "Ernest Achiever",
       "status": "Web Developer",
       "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum voluptates ex officiis, nemo odit temporibus necessitatibus velit deserunt vero voluptatum distinctio possimus accusantium in impedit quidem inventore repellendus quis numquam."
     },
     {
-      "avatar": "/EducationSite/images/avatar3.jpg",
+      "avatar": "/images/avatar3.jpg",
       "name": "Edem Quist",
       "status": "Android Developer",
       "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum voluptates ex officiis, nemo odit temporibus necessitatibus velit deserunt vero voluptatum distinctio possimus accusantium in impedit quidem inventore repellendus quis numquam."
     },
     {
-      "avatar": "/EducationSite/images/avatar4.jpg",
+      "avatar": "/images/avatar4.jpg",
       "name": "Haija Bintu",
       "status": "Data Scientist",
       "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum voluptates ex officiis, nemo odit temporibus necessitatibus velit deserunt vero voluptatum distinctio possimus accusantium in impedit quidem inventore repellendus quis numquam."
     },
     {
-      "avatar": "/EducationSite/images/avatar5.jpg",
+      "avatar": "/images/avatar5.jpg",
       "name": "Jone Doe",
       "status": "Teacher",
       "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum voluptates ex officiis, nemo odit temporibus necessitatibus velit deserunt vero voluptatum distinctio possimus accusantium in impedit quidem inventore repellendus quis numquam."
     },
     {
-      "avatar": "/EducationSite/images/avatar6.jpg",
+      "avatar": "/images/avatar6.jpg",
       "name": "Deved Jonson",
       "status": "Account Manager",
       "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum voluptates ex officiis, nemo odit temporibus necessitatibus velit deserunt vero voluptatum distinctio possimus accusantium in impedit quidem inventore repellendus quis numquam."
     },
     {
-      "avatar": "/EducationSite/images/avatar7.jpg",
+      "avatar": "/images/avatar7.jpg",
       "name": "Tony Stork",
       "status": "Model",
       "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum voluptates ex officiis, nemo odit temporibus necessitatibus velit deserunt vero voluptatum distinctio possimus accusantium in impedit quidem inventore repellendus quis numquam."
@@ -128,134 +128,134 @@
   ],
   "team": [
     {
-      "imageUrl": "/EducationSite/images/tm1.jpg",
+      "imageUrl": "/images/tm1.jpg",
       "name": "Deved Jonson",
       "status": "Account Manager"
     },
     {
-      "imageUrl": "/EducationSite/images/tm2.jpg",
+      "imageUrl": "/images/tm2.jpg",
       "name": "Diana Ayi",
       "status": "Data Scientist"
     },
     {
-      "imageUrl": "/EducationSite/images/tm3.jpg",
+      "imageUrl": "/images/tm3.jpg",
       "name": "Deved Jonson",
       "status": "Account Manager"
     },
     {
-      "imageUrl": "/EducationSite/images/tm4.jpg",
+      "imageUrl": "/images/tm4.jpg",
       "name": "Edem Quist",
       "status": "Student"
     },
     {
-      "imageUrl": "/EducationSite/images/tm5.jpg",
+      "imageUrl": "/images/tm5.jpg",
       "name": "Edem Quist",
       "status": "Web Developer"
     },
     {
-      "imageUrl": "/EducationSite/images/tm6.jpg",
+      "imageUrl": "/images/tm6.jpg",
       "name": "Haija Bintu",
       "status": "Account Manager"
     },
     {
-      "imageUrl": "/EducationSite/images/tm7.jpg",
+      "imageUrl": "/images/tm7.jpg",
       "name": "Jone Doe",
       "status": "Teacher"
     },
     {
-      "imageUrl": "/EducationSite/images/tm8.jpg",
+      "imageUrl": "/images/tm8.jpg",
       "name": "Ernest Achiever",
       "status": "Expert Tutor"
     }
   ]
   ,"moreCourses":[
     {
-      "image": "/EducationSite/images/course1.jpg",
+      "image": "/images/course1.jpg",
       "title": "Responsive social media Website UI Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     },
     {
-      "image": "/EducationSite/images/course2.jpg",
+      "image": "/images/course2.jpg",
       "title": "Responsive SmartPhone Website Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     },
     {
-      "image": "/EducationSite/images/course3.jpg",
+      "image": "/images/course3.jpg",
       "title": "Responsive Admin Dashboard UI Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     },
     {
-      "image": "/EducationSite/images/course4.jpg",
+      "image": "/images/course4.jpg",
       "title": "Responsive Admin Dashboard UI Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     },
     {
-      "image": "/EducationSite/images/course5.jpg",
+      "image": "/images/course5.jpg",
       "title": "Responsive Admin Dashboard UI Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     },
     {
-      "image": "/EducationSite/images/course6.jpg",
+      "image": "/images/course6.jpg",
       "title": "Responsive Admin Dashboard UI Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     },
     {
-      "image": "/EducationSite/images/course7.jpg",
+      "image": "/images/course7.jpg",
       "title": "Responsive Admin Dashboard UI Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     },
     {
-      "image": "/EducationSite/images/course8.jpg",
+      "image": "/images/course8.jpg",
       "title": "Responsive Admin Dashboard UI Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     },
     {
-      "image": "/EducationSite/images/course9.jpg",
+      "image": "/images/course9.jpg",
       "title": "Responsive Admin Dashboard UI Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     },
     {
-      "image": "/EducationSite/images/course10.jpg",
+      "image": "/images/course10.jpg",
       "title": "Responsive Admin Dashboard UI Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     },
     {
-      "image": "/EducationSite/images/course11.jpg",
+      "image": "/images/course11.jpg",
       "title": "Responsive Admin Dashboard UI Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     },
     {
-      "image": "/EducationSite/images/course12.jpg",
+      "image": "/images/course12.jpg",
       "title": "Responsive Admin Dashboard UI Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     },
     {
-      "image": "/EducationSite/images/course13.jpg",
+      "image": "/images/course13.jpg",
       "title": "Responsive Admin Dashboard UI Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     },
     {
-      "image": "/EducationSite/images/course14.jpg",
+      "image": "/images/course14.jpg",
       "title": "Responsive Admin Dashboard UI Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     },
     {
-      "image": "/EducationSite/images/course15.jpg",
+      "image": "/images/course15.jpg",
       "title": "Responsive Admin Dashboard UI Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     },
     {
-      "image": "/EducationSite/images/course16.jpg",
+      "image": "/images/course16.jpg",
       "title": "Responsive Admin Dashboard UI Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     },
     {
-      "image": "/EducationSite/images/course17.jpg",
+      "image": "/images/course17.jpg",
       "title": "Responsive Admin Dashboard UI Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     },
     {
-      "image": "/EducationSite/images/course18.jpg",
+      "image": "/images/course18.jpg",
       "title": "Responsive Admin Dashboard UI Design",
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturiducimus a ipsum explicabo earum itaque nam!"
     }

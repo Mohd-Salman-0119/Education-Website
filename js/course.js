@@ -1,4 +1,4 @@
-fetch('/EducationSite/json/content.json')
+fetch('/json/content.json')
 .then(res => res.json())
 .then(data =>{
 
