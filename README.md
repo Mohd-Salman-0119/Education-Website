@@ -83,6 +83,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ![image](https://github.com/Mohd-Salman-0119/Education-Website/assets/112762975/c88c7e15-bb13-4995-966b-9d78c1564334)
 
+## Deploy Link:
+ * https://creative-maamoul-4e79b9.netlify.app/
+
 
 
 
